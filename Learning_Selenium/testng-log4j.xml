@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="listener.Listeners"/>
+	</listeners>
+	<parameter name="username" value="praneetha"/>
+	<parameter name="password" value="123456"/>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="log4j_practice.LogTest"/>
+<!--        <class name="log4j_practice.CartPageTestCases"/> -->
+       <class name="log4j_practice.AfterSignInPageTestCases"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

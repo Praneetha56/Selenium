@@ -1,0 +1,340 @@
+18:52:46.864 [main] INFO  log4j_practice.LogTest - This is Info
+18:52:46.867 [main] DEBUG log4j_practice.LogTest - This is Debug
+18:52:46.868 [main] ERROR log4j_practice.LogTest - This is Error
+18:52:46.868 [main] FATAL log4j_practice.LogTest - This is Fatal
+19:02:11.767 [main] INFO  log4j_practice.LogTest - This is Info
+19:02:11.770 [main] DEBUG log4j_practice.LogTest - This is Debug
+19:02:11.770 [main] ERROR log4j_practice.LogTest - This is Error
+19:02:11.770 [main] FATAL log4j_practice.LogTest - This is Fatal
+19:08:26.821 [main] INFO  log4j_practice.LogTest - This is Info
+19:08:26.890 [main] DEBUG log4j_practice.LogTest - This is Debug
+19:08:26.890 [main] ERROR log4j_practice.LogTest - This is Error
+19:08:26.890 [main] FATAL log4j_practice.LogTest - This is Fatal
+19:08:47.564 [main] INFO  log4j_practice.LogTest - CartPageValidateStarted
+19:08:47.564 [main] INFO  log4j_practice.LogTest - =================
+19:08:47.564 [main] INFO  log4j_practice.LogTest - Click on the Cart
+19:08:47.917 [main] INFO  log4j_practice.LogTest - Verify text from Cart page
+19:11:26.729 [main] INFO  log4j_practice.LogTest - This is Info
+19:11:26.738 [main] DEBUG log4j_practice.LogTest - This is Debug
+19:11:26.738 [main] ERROR log4j_practice.LogTest - This is Error
+19:11:26.738 [main] FATAL log4j_practice.LogTest - This is Fatal
+19:11:48.630 [main] INFO  log4j_practice.LogTest - CartPageValidateStarted
+19:11:48.630 [main] INFO  log4j_practice.LogTest - =================
+19:11:48.630 [main] INFO  log4j_practice.LogTest - Click on the Cart
+19:11:54.462 [main] INFO  log4j_practice.LogTest - Verify text from Cart page
+19:11:55.771 [main] INFO  log4j_practice.LogTest - This condition is Passed
+19:11:55.772 [main] INFO  log4j_practice.LogTest - =================
+19:11:55.772 [main] ERROR log4j_practice.LogTest - This condition is Failed
+00:55:35.935 [main] INFO  log4j_practice.LogTest - This is Info
+00:55:35.949 [main] DEBUG log4j_practice.LogTest - This is Debug
+00:55:35.949 [main] ERROR log4j_practice.LogTest - This is Error
+00:55:35.949 [main] FATAL log4j_practice.LogTest - This is Fatal
+00:55:39.495 [main] INFO  listener.EventListener - Before navigating to: 'http://automationpractice.com/index.php'
+00:55:46.585 [main] INFO  listener.EventListener - Navigated to:'http://automationpractice.com/index.php'
+00:55:46.637 [main] INFO  log4j_practice.LogTest - CartPageValidateStarted
+00:55:46.637 [main] INFO  log4j_practice.LogTest - =================
+00:55:46.640 [main] INFO  log4j_practice.LogTest - Click on the Cart
+00:55:47.413 [main] INFO  log4j_practice.LogTest - Verify text from Cart page
+00:55:48.150 [main] INFO  log4j_practice.LogTest - This condition is Passed
+00:55:48.150 [main] INFO  log4j_practice.LogTest - =================
+00:55:48.150 [main] ERROR log4j_practice.LogTest - This condition is Failed
+01:05:25.032 [main] INFO  log4j_practice.LogTest - This is Info
+01:05:25.041 [main] DEBUG log4j_practice.LogTest - This is Debug
+01:05:25.041 [main] ERROR log4j_practice.LogTest - This is Error
+01:05:25.041 [main] FATAL log4j_practice.LogTest - This is Fatal
+01:05:28.774 [main] INFO  listener.EventListener - Before navigating to: 'http://automationpractice.com/index.php'
+01:05:38.747 [main] INFO  listener.EventListener - Navigated to:'http://automationpractice.com/index.php'
+01:05:41.178 [main] INFO  log4j_practice.LogTest - CartPageValidateStarted
+01:05:41.179 [main] INFO  log4j_practice.LogTest - =================
+01:05:41.187 [main] INFO  log4j_practice.LogTest - Click on the Cart
+01:05:43.410 [main] INFO  log4j_practice.LogTest - Verify text from Cart page
+01:05:43.481 [main] INFO  log4j_practice.LogTest - This condition is Passed
+01:05:43.481 [main] INFO  log4j_practice.LogTest - =================
+01:05:43.481 [main] ERROR log4j_practice.LogTest - This condition is Failed
+13:55:52.627 [main] INFO  log4j_practice.LogTest - This is Info
+13:55:52.637 [main] DEBUG log4j_practice.LogTest - This is Debug
+13:55:52.637 [main] ERROR log4j_practice.LogTest - This is Error
+13:55:52.637 [main] FATAL log4j_practice.LogTest - This is Fatal
+13:55:57.673 [main] INFO  listener.EventListener - Before navigating to: 'http://automationpractice.com/index.php'
+13:56:10.589 [main] INFO  listener.EventListener - Navigated to:'http://automationpractice.com/index.php'
+13:56:12.934 [main] INFO  log4j_practice.LogTest - CartPageValidateStarted
+13:56:12.934 [main] INFO  log4j_practice.LogTest - =================
+13:56:12.940 [main] INFO  log4j_practice.LogTest - Click on the Cart
+13:56:16.445 [main] INFO  log4j_practice.LogTest - Verify text from Cart page
+13:56:16.532 [main] INFO  log4j_practice.LogTest - This condition is Passed
+13:56:16.532 [main] INFO  log4j_practice.LogTest - =================
+13:56:16.532 [main] ERROR log4j_practice.LogTest - This condition is Failed
+14:44:09.859 [main] INFO  listener.EventListener - Before navigating to: 'http://automationpractice.com/index.php'
+14:44:23.164 [main] INFO  listener.EventListener - Navigated to:'http://automationpractice.com/index.php'
+14:45:19.625 [main] INFO  listener.EventListener - Before navigating to: 'http://automationpractice.com/index.php'
+14:45:30.370 [main] INFO  listener.EventListener - Navigated to:'http://automationpractice.com/index.php'
+14:49:11.222 [main] INFO  log4j_practice.LogTest - This is Info
+14:49:11.230 [main] DEBUG log4j_practice.LogTest - This is Debug
+14:49:11.231 [main] ERROR log4j_practice.LogTest - This is Error
+14:49:11.231 [main] FATAL log4j_practice.LogTest - This is Fatal
+14:49:14.981 [main] INFO  listener.EventListener - Before navigating to: 'http://automationpractice.com/index.php'
+14:49:23.753 [main] INFO  listener.EventListener - Navigated to:'http://automationpractice.com/index.php'
+14:49:25.932 [main] INFO  log4j_practice.LogTest - CartPageValidateStarted
+14:49:25.933 [main] INFO  log4j_practice.LogTest - =================
+14:49:25.934 [main] INFO  log4j_practice.LogTest - Click on the Cart
+14:49:28.490 [main] INFO  log4j_practice.LogTest - Verify text from Cart page
+14:49:28.574 [main] INFO  log4j_practice.LogTest - This condition is Passed
+14:49:28.574 [main] INFO  log4j_practice.LogTest - =================
+14:54:56.716 [main] INFO  log4j_practice.LogTest - This is Info
+14:54:56.723 [main] DEBUG log4j_practice.LogTest - This is Debug
+14:54:56.723 [main] ERROR log4j_practice.LogTest - This is Error
+14:54:56.723 [main] FATAL log4j_practice.LogTest - This is Fatal
+14:55:00.589 [main] INFO  listener.EventListener - Before navigating to: 'http://automationpractice.com/index.php'
+14:55:11.661 [main] INFO  listener.EventListener - Navigated to:'http://automationpractice.com/index.php'
+14:55:13.952 [main] INFO  log4j_practice.LogTest - CartPageValidateStarted
+14:55:13.953 [main] INFO  log4j_practice.LogTest - =================
+14:55:13.993 [main] INFO  log4j_practice.LogTest - Click on the Cart
+14:55:13.993 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //a[@title= 'View my shopping cart']
+14:55:14.048 [main] INFO  listener.EventListener - Found Element By : By.xpath: //a[@title= 'View my shopping cart']
+14:55:14.063 [main] INFO  listener.EventListener - Trying to click on: [[ChromeDriver: chrome on WINDOWS (06aaeca3d74069ab8c450552999f0324)] -> xpath: //a[@title= 'View my shopping cart']]
+14:55:16.917 [main] INFO  listener.EventListener - Clicked on: [[ChromeDriver: chrome on WINDOWS (06aaeca3d74069ab8c450552999f0324)] -> xpath: //a[@title= 'View my shopping cart']]
+14:55:16.919 [main] INFO  log4j_practice.LogTest - Verify text from Cart page
+14:55:16.919 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //span[@class='navigation_page']
+14:55:16.934 [main] INFO  listener.EventListener - Found Element By : By.xpath: //span[@class='navigation_page']
+14:55:16.950 [main] INFO  log4j_practice.LogTest - This condition is Passed
+14:55:16.950 [main] INFO  log4j_practice.LogTest - =================
+20:25:48.631 [main] INFO  log4j_practice.LogTest - This is Info
+20:25:48.638 [main] DEBUG log4j_practice.LogTest - This is Debug
+20:25:48.638 [main] ERROR log4j_practice.LogTest - This is Error
+20:25:48.638 [main] FATAL log4j_practice.LogTest - This is Fatal
+20:31:07.535 [main] INFO  log4j_practice.LogTest - This is Info
+20:31:07.542 [main] DEBUG log4j_practice.LogTest - This is Debug
+20:31:07.542 [main] ERROR log4j_practice.LogTest - This is Error
+20:31:07.542 [main] FATAL log4j_practice.LogTest - This is Fatal
+20:31:13.453 [main] INFO  listener.EventListener - Before navigating to: 'http://automationpractice.com/index.php'
+20:31:25.709 [main] INFO  listener.EventListener - Navigated to:'http://automationpractice.com/index.php'
+20:31:26.136 [main] INFO  log4j_practice.LogTest - Testcase StartedMyOrderHistory
+20:35:57.830 [main] INFO  log4j_practice.LogTest - This is Info
+20:35:57.838 [main] DEBUG log4j_practice.LogTest - This is Debug
+20:35:57.838 [main] ERROR log4j_practice.LogTest - This is Error
+20:35:57.838 [main] FATAL log4j_practice.LogTest - This is Fatal
+20:36:01.478 [main] INFO  listener.EventListener - Before navigating to: 'http://automationpractice.com/index.php'
+20:36:14.982 [main] INFO  listener.EventListener - Navigated to:'http://automationpractice.com/index.php'
+20:36:15.400 [main] INFO  log4j_practice.LogTest - Testcase StartedMyOrderHistory
+20:36:15.402 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //a[contains(text(), 'Sign in')]
+20:36:15.509 [main] INFO  listener.EventListener - Found Element By : By.xpath: //a[contains(text(), 'Sign in')]
+20:36:15.528 [main] INFO  listener.EventListener - Trying to click on: [[FirefoxDriver: firefox on WINDOWS (8786feac-8229-4984-ac2d-290c75239852)] -> xpath: //a[contains(text(), 'Sign in')]]
+20:36:18.554 [main] INFO  listener.EventListener - Clicked on: [[FirefoxDriver: firefox on WINDOWS (8786feac-8229-4984-ac2d-290c75239852)] -> xpath: //a[contains(text(), 'Sign in')]]
+20:36:18.554 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //input[@id='email']
+20:36:18.580 [main] INFO  listener.EventListener - Found Element By : By.xpath: //input[@id='email']
+20:36:18.629 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //input[@id='passwd']
+20:36:18.639 [main] INFO  listener.EventListener - Found Element By : By.xpath: //input[@id='passwd']
+20:36:18.679 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //button[@id='SubmitLogin']
+20:36:18.694 [main] INFO  listener.EventListener - Found Element By : By.xpath: //button[@id='SubmitLogin']
+20:36:18.698 [main] INFO  listener.EventListener - Trying to click on: [[FirefoxDriver: firefox on WINDOWS (8786feac-8229-4984-ac2d-290c75239852)] -> xpath: //button[@id='SubmitLogin']]
+20:36:20.526 [main] INFO  listener.EventListener - Clicked on: [[FirefoxDriver: firefox on WINDOWS (8786feac-8229-4984-ac2d-290c75239852)] -> xpath: //button[@id='SubmitLogin']]
+20:36:20.527 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: (//a[@href='http://automationpractice.com/index.php?controller=history'])[1]
+20:36:20.562 [main] INFO  listener.EventListener - Found Element By : By.xpath: (//a[@href='http://automationpractice.com/index.php?controller=history'])[1]
+20:36:20.570 [main] INFO  listener.EventListener - Trying to click on: [[FirefoxDriver: firefox on WINDOWS (8786feac-8229-4984-ac2d-290c75239852)] -> xpath: (//a[@href='http://automationpractice.com/index.php?controller=history'])[1]]
+20:36:23.857 [main] INFO  listener.EventListener - Clicked on: [[FirefoxDriver: firefox on WINDOWS (8786feac-8229-4984-ac2d-290c75239852)] -> xpath: (//a[@href='http://automationpractice.com/index.php?controller=history'])[1]]
+22:40:02.028 [main] INFO  log4j_practice.LogTest - This is Info
+22:40:02.036 [main] DEBUG log4j_practice.LogTest - This is Debug
+22:40:02.036 [main] ERROR log4j_practice.LogTest - This is Error
+22:40:02.036 [main] FATAL log4j_practice.LogTest - This is Fatal
+22:40:06.298 [main] INFO  listener.EventListener - Before navigating to: 'http://automationpractice.com/index.php'
+22:40:18.021 [main] INFO  listener.EventListener - Navigated to:'http://automationpractice.com/index.php'
+22:40:18.439 [main] INFO  log4j_practice.LogTest - Testcase StartedMyOrderHistory
+22:40:18.441 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //a[contains(text(), 'Sign in')]
+22:40:18.489 [main] INFO  listener.EventListener - Found Element By : By.xpath: //a[contains(text(), 'Sign in')]
+22:40:18.508 [main] INFO  listener.EventListener - Trying to click on: [[FirefoxDriver: firefox on WINDOWS (2342c554-ab3c-4183-ae88-87c533a06bc6)] -> xpath: //a[contains(text(), 'Sign in')]]
+22:40:21.241 [main] INFO  listener.EventListener - Clicked on: [[FirefoxDriver: firefox on WINDOWS (2342c554-ab3c-4183-ae88-87c533a06bc6)] -> xpath: //a[contains(text(), 'Sign in')]]
+22:40:21.241 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //input[@id='email']
+22:40:21.252 [main] INFO  listener.EventListener - Found Element By : By.xpath: //input[@id='email']
+22:40:21.303 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //input[@id='passwd']
+22:40:21.311 [main] INFO  listener.EventListener - Found Element By : By.xpath: //input[@id='passwd']
+22:40:21.337 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //button[@id='SubmitLogin']
+22:40:21.347 [main] INFO  listener.EventListener - Found Element By : By.xpath: //button[@id='SubmitLogin']
+22:40:21.351 [main] INFO  listener.EventListener - Trying to click on: [[FirefoxDriver: firefox on WINDOWS (2342c554-ab3c-4183-ae88-87c533a06bc6)] -> xpath: //button[@id='SubmitLogin']]
+22:40:23.260 [main] INFO  listener.EventListener - Clicked on: [[FirefoxDriver: firefox on WINDOWS (2342c554-ab3c-4183-ae88-87c533a06bc6)] -> xpath: //button[@id='SubmitLogin']]
+22:40:23.260 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: (//a[@href='http://automationpractice.com/index.php?controller=history'])[1]
+22:40:23.277 [main] INFO  listener.EventListener - Found Element By : By.xpath: (//a[@href='http://automationpractice.com/index.php?controller=history'])[1]
+22:40:23.281 [main] INFO  listener.EventListener - Trying to click on: [[FirefoxDriver: firefox on WINDOWS (2342c554-ab3c-4183-ae88-87c533a06bc6)] -> xpath: (//a[@href='http://automationpractice.com/index.php?controller=history'])[1]]
+22:40:26.729 [main] INFO  listener.EventListener - Clicked on: [[FirefoxDriver: firefox on WINDOWS (2342c554-ab3c-4183-ae88-87c533a06bc6)] -> xpath: (//a[@href='http://automationpractice.com/index.php?controller=history'])[1]]
+13:17:28.906 [main] INFO  listener.EventListener - Before navigating to: 'http://automationpractice.com/index.php'
+13:17:41.647 [main] INFO  listener.EventListener - Navigated to:'http://automationpractice.com/index.php'
+13:17:44.036 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //a[contains(text(), 'Sign in')]
+13:17:44.074 [main] INFO  listener.EventListener - Found Element By : By.xpath: //a[contains(text(), 'Sign in')]
+13:17:44.085 [main] INFO  listener.EventListener - Trying to click on: [[ChromeDriver: chrome on WINDOWS (8449a7f3424d92c12ab32521e0389804)] -> xpath: //a[contains(text(), 'Sign in')]]
+13:17:48.369 [main] INFO  listener.EventListener - Clicked on: [[ChromeDriver: chrome on WINDOWS (8449a7f3424d92c12ab32521e0389804)] -> xpath: //a[contains(text(), 'Sign in')]]
+13:17:48.381 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //input[@id='email_create']
+13:17:48.394 [main] INFO  listener.EventListener - Found Element By : By.xpath: //input[@id='email_create']
+13:17:48.519 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //button[@id='SubmitCreate']
+13:17:48.532 [main] INFO  listener.EventListener - Found Element By : By.xpath: //button[@id='SubmitCreate']
+13:17:48.534 [main] INFO  listener.EventListener - Trying to click on: [[ChromeDriver: chrome on WINDOWS (8449a7f3424d92c12ab32521e0389804)] -> xpath: //button[@id='SubmitCreate']]
+13:17:48.585 [main] INFO  listener.EventListener - Clicked on: [[ChromeDriver: chrome on WINDOWS (8449a7f3424d92c12ab32521e0389804)] -> xpath: //button[@id='SubmitCreate']]
+13:17:48.587 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //input[@id='customer_firstname']
+13:17:58.752 [main] INFO  listener.EventListener - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='customer_firstname']"}
+  (Session info: chrome=87.0.4280.141)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-F4HKPKP', ip: '192.168.0.93', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\prani\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63892}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 8449a7f3424d92c12ab32521e0389804
+*** Element info: {Using=xpath, value=//input[@id='customer_firstname']}
+13:29:37.999 [main] INFO  listener.EventListener - Before navigating to: 'http://automationpractice.com/index.php'
+13:29:50.881 [main] INFO  listener.EventListener - Navigated to:'http://automationpractice.com/index.php'
+13:29:53.188 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //a[contains(text(), 'Sign in')]
+13:29:53.217 [main] INFO  listener.EventListener - Found Element By : By.xpath: //a[contains(text(), 'Sign in')]
+13:29:53.226 [main] INFO  listener.EventListener - Trying to click on: [[ChromeDriver: chrome on WINDOWS (027c4f9ef1f03dc370455d2981021a92)] -> xpath: //a[contains(text(), 'Sign in')]]
+13:29:59.063 [main] INFO  listener.EventListener - Clicked on: [[ChromeDriver: chrome on WINDOWS (027c4f9ef1f03dc370455d2981021a92)] -> xpath: //a[contains(text(), 'Sign in')]]
+13:29:59.081 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //input[@id='email_create']
+13:29:59.110 [main] INFO  listener.EventListener - Found Element By : By.xpath: //input[@id='email_create']
+13:29:59.345 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //button[@id='SubmitCreate']
+13:29:59.360 [main] INFO  listener.EventListener - Found Element By : By.xpath: //button[@id='SubmitCreate']
+13:29:59.363 [main] INFO  listener.EventListener - Trying to click on: [[ChromeDriver: chrome on WINDOWS (027c4f9ef1f03dc370455d2981021a92)] -> xpath: //button[@id='SubmitCreate']]
+13:29:59.416 [main] INFO  listener.EventListener - Clicked on: [[ChromeDriver: chrome on WINDOWS (027c4f9ef1f03dc370455d2981021a92)] -> xpath: //button[@id='SubmitCreate']]
+13:29:59.418 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //input[@id='customer_firstname']
+13:30:09.470 [main] INFO  listener.EventListener - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='customer_firstname']"}
+  (Session info: chrome=87.0.4280.141)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-F4HKPKP', ip: '192.168.0.93', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\prani\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63959}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 027c4f9ef1f03dc370455d2981021a92
+*** Element info: {Using=xpath, value=//input[@id='customer_firstname']}
+13:40:31.261 [main] INFO  log4j_practice.LogTest - This is Info
+13:40:31.280 [main] DEBUG log4j_practice.LogTest - This is Debug
+13:40:31.280 [main] ERROR log4j_practice.LogTest - This is Error
+13:40:31.280 [main] FATAL log4j_practice.LogTest - This is Fatal
+13:40:35.071 [main] INFO  listener.EventListener - Before navigating to: 'http://automationpractice.com/index.php'
+13:40:43.742 [main] INFO  listener.EventListener - Navigated to:'http://automationpractice.com/index.php'
+13:40:46.019 [main] INFO  log4j_practice.LogTest - Testcase StartedMyOrderHistory
+13:40:46.020 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //a[contains(text(), 'Sign in')]
+13:40:46.061 [main] INFO  listener.EventListener - Found Element By : By.xpath: //a[contains(text(), 'Sign in')]
+13:40:46.071 [main] INFO  listener.EventListener - Trying to click on: [[ChromeDriver: chrome on WINDOWS (4b8c4b2248bcf721ff997c8ef518811e)] -> xpath: //a[contains(text(), 'Sign in')]]
+13:40:48.735 [main] INFO  listener.EventListener - Clicked on: [[ChromeDriver: chrome on WINDOWS (4b8c4b2248bcf721ff997c8ef518811e)] -> xpath: //a[contains(text(), 'Sign in')]]
+13:40:48.735 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //input[@id='email']
+13:40:48.755 [main] INFO  listener.EventListener - Found Element By : By.xpath: //input[@id='email']
+13:40:48.828 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //input[@id='passwd']
+13:40:48.844 [main] INFO  listener.EventListener - Found Element By : By.xpath: //input[@id='passwd']
+13:40:48.904 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //button[@id='SubmitLogin']
+13:40:48.921 [main] INFO  listener.EventListener - Found Element By : By.xpath: //button[@id='SubmitLogin']
+13:40:48.923 [main] INFO  listener.EventListener - Trying to click on: [[ChromeDriver: chrome on WINDOWS (4b8c4b2248bcf721ff997c8ef518811e)] -> xpath: //button[@id='SubmitLogin']]
+13:40:50.190 [main] INFO  listener.EventListener - Clicked on: [[ChromeDriver: chrome on WINDOWS (4b8c4b2248bcf721ff997c8ef518811e)] -> xpath: //button[@id='SubmitLogin']]
+13:40:50.190 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: (//a[@href='http://automationpractice.com/index.php?controller=history'])[1]
+13:40:50.221 [main] INFO  listener.EventListener - Found Element By : By.xpath: (//a[@href='http://automationpractice.com/index.php?controller=history'])[1]
+13:40:50.225 [main] INFO  listener.EventListener - Trying to click on: [[ChromeDriver: chrome on WINDOWS (4b8c4b2248bcf721ff997c8ef518811e)] -> xpath: (//a[@href='http://automationpractice.com/index.php?controller=history'])[1]]
+13:40:53.501 [main] INFO  listener.EventListener - Clicked on: [[ChromeDriver: chrome on WINDOWS (4b8c4b2248bcf721ff997c8ef518811e)] -> xpath: (//a[@href='http://automationpractice.com/index.php?controller=history'])[1]]
+13:42:09.321 [main] INFO  listener.EventListener - Before navigating to: 'http://automationpractice.com/index.php'
+13:42:18.576 [main] INFO  listener.EventListener - Navigated to:'http://automationpractice.com/index.php'
+13:42:20.821 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //a[contains(text(), 'Sign in')]
+13:42:20.848 [main] INFO  listener.EventListener - Found Element By : By.xpath: //a[contains(text(), 'Sign in')]
+13:42:20.856 [main] INFO  listener.EventListener - Trying to click on: [[ChromeDriver: chrome on WINDOWS (5f601f62a2eb744121ef2b25260b3efd)] -> xpath: //a[contains(text(), 'Sign in')]]
+13:42:23.556 [main] INFO  listener.EventListener - Clicked on: [[ChromeDriver: chrome on WINDOWS (5f601f62a2eb744121ef2b25260b3efd)] -> xpath: //a[contains(text(), 'Sign in')]]
+13:42:23.564 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //input[@id='email_create']
+13:42:23.583 [main] INFO  listener.EventListener - Found Element By : By.xpath: //input[@id='email_create']
+13:42:23.672 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //button[@id='SubmitCreate']
+13:42:23.688 [main] INFO  listener.EventListener - Found Element By : By.xpath: //button[@id='SubmitCreate']
+13:42:23.690 [main] INFO  listener.EventListener - Trying to click on: [[ChromeDriver: chrome on WINDOWS (5f601f62a2eb744121ef2b25260b3efd)] -> xpath: //button[@id='SubmitCreate']]
+13:42:23.739 [main] INFO  listener.EventListener - Clicked on: [[ChromeDriver: chrome on WINDOWS (5f601f62a2eb744121ef2b25260b3efd)] -> xpath: //button[@id='SubmitCreate']]
+13:42:23.748 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //input[@id='customer_firstname']
+13:42:25.440 [main] INFO  listener.EventListener - Found Element By : By.xpath: //input[@id='customer_firstname']
+13:42:25.685 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //input[@id='customer_lastname']
+13:42:25.699 [main] INFO  listener.EventListener - Found Element By : By.xpath: //input[@id='customer_lastname']
+13:42:25.803 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //input[@id='passwd']
+13:42:25.818 [main] INFO  listener.EventListener - Found Element By : By.xpath: //input[@id='passwd']
+13:42:25.971 [main] INFO  listener.EventListener - Trying to find Element By : By.id: days
+13:42:26.073 [main] INFO  listener.EventListener - Found Element By : By.id: days
+13:42:26.080 [main] INFO  listener.EventListener - Trying to find Element By : By.id: days
+13:42:26.093 [main] INFO  listener.EventListener - Found Element By : By.id: days
+13:42:26.193 [main] INFO  listener.EventListener - Trying to find Element By : By.id: days
+13:42:26.214 [main] INFO  listener.EventListener - Found Element By : By.id: days
+13:42:26.215 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: .//option[@value = "row 2 or column Day does not exist in xls"]
+13:42:36.244 [main] INFO  listener.EventListener - Found Element By : By.xpath: .//option[@value = "row 2 or column Day does not exist in xls"]
+13:47:31.744 [main] INFO  listener.EventListener - Before navigating to: 'http://automationpractice.com/index.php'
+13:47:43.515 [main] INFO  listener.EventListener - Navigated to:'http://automationpractice.com/index.php'
+13:47:45.841 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //a[contains(text(), 'Sign in')]
+13:47:45.877 [main] INFO  listener.EventListener - Found Element By : By.xpath: //a[contains(text(), 'Sign in')]
+13:47:45.887 [main] INFO  listener.EventListener - Trying to click on: [[ChromeDriver: chrome on WINDOWS (ff5c91978de380838356395259324fc4)] -> xpath: //a[contains(text(), 'Sign in')]]
+13:47:50.132 [main] INFO  listener.EventListener - Clicked on: [[ChromeDriver: chrome on WINDOWS (ff5c91978de380838356395259324fc4)] -> xpath: //a[contains(text(), 'Sign in')]]
+13:47:50.140 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //input[@id='email_create']
+13:47:50.157 [main] INFO  listener.EventListener - Found Element By : By.xpath: //input[@id='email_create']
+13:47:50.251 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //button[@id='SubmitCreate']
+13:47:50.266 [main] INFO  listener.EventListener - Found Element By : By.xpath: //button[@id='SubmitCreate']
+13:47:50.268 [main] INFO  listener.EventListener - Trying to click on: [[ChromeDriver: chrome on WINDOWS (ff5c91978de380838356395259324fc4)] -> xpath: //button[@id='SubmitCreate']]
+13:47:50.322 [main] INFO  listener.EventListener - Clicked on: [[ChromeDriver: chrome on WINDOWS (ff5c91978de380838356395259324fc4)] -> xpath: //button[@id='SubmitCreate']]
+13:47:50.327 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //input[@id='customer_firstname']
+13:47:52.003 [main] INFO  listener.EventListener - Found Element By : By.xpath: //input[@id='customer_firstname']
+13:47:52.213 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //input[@id='customer_lastname']
+13:47:52.234 [main] INFO  listener.EventListener - Found Element By : By.xpath: //input[@id='customer_lastname']
+13:47:52.419 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //input[@id='passwd']
+13:47:52.434 [main] INFO  listener.EventListener - Found Element By : By.xpath: //input[@id='passwd']
+13:47:52.690 [main] INFO  listener.EventListener - Trying to find Element By : By.id: days
+13:47:52.720 [main] INFO  listener.EventListener - Found Element By : By.id: days
+13:47:52.732 [main] INFO  listener.EventListener - Trying to find Element By : By.id: days
+13:47:52.749 [main] INFO  listener.EventListener - Found Element By : By.id: days
+13:47:52.778 [main] INFO  listener.EventListener - Trying to find Element By : By.id: days
+13:47:52.794 [main] INFO  listener.EventListener - Found Element By : By.id: days
+13:47:52.795 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: .//option[@value = "row 2 or column Day does not exist in xls"]
+13:48:02.879 [main] INFO  listener.EventListener - Found Element By : By.xpath: .//option[@value = "row 2 or column Day does not exist in xls"]
+13:18:24.241 [main] INFO  listener.EventListener - Before navigating to: 'http://automationpractice.com/index.php'
+13:18:32.051 [main] INFO  listener.EventListener - Navigated to:'http://automationpractice.com/index.php'
+13:18:32.219 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //a[contains(text(), 'Sign in')]
+13:18:32.239 [main] INFO  listener.EventListener - Found Element By : By.xpath: //a[contains(text(), 'Sign in')]
+13:18:32.245 [main] INFO  listener.EventListener - Trying to click on: [[ChromeDriver: chrome on WINDOWS (c49a3e5915217b8470ff77677bf10a94)] -> xpath: //a[contains(text(), 'Sign in')]]
+13:18:34.462 [main] INFO  listener.EventListener - Clicked on: [[ChromeDriver: chrome on WINDOWS (c49a3e5915217b8470ff77677bf10a94)] -> xpath: //a[contains(text(), 'Sign in')]]
+13:18:34.471 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //input[@id='email_create']
+13:18:34.485 [main] INFO  listener.EventListener - Found Element By : By.xpath: //input[@id='email_create']
+13:18:34.570 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //button[@id='SubmitCreate']
+13:18:34.597 [main] INFO  listener.EventListener - Found Element By : By.xpath: //button[@id='SubmitCreate']
+13:18:34.601 [main] INFO  listener.EventListener - Trying to click on: [[ChromeDriver: chrome on WINDOWS (c49a3e5915217b8470ff77677bf10a94)] -> xpath: //button[@id='SubmitCreate']]
+13:18:34.685 [main] INFO  listener.EventListener - Clicked on: [[ChromeDriver: chrome on WINDOWS (c49a3e5915217b8470ff77677bf10a94)] -> xpath: //button[@id='SubmitCreate']]
+13:18:34.693 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //input[@id='customer_firstname']
+13:18:36.270 [main] INFO  listener.EventListener - Found Element By : By.xpath: //input[@id='customer_firstname']
+13:18:36.458 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //input[@id='customer_lastname']
+13:18:36.474 [main] INFO  listener.EventListener - Found Element By : By.xpath: //input[@id='customer_lastname']
+13:18:36.583 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //input[@id='passwd']
+13:18:36.600 [main] INFO  listener.EventListener - Found Element By : By.xpath: //input[@id='passwd']
+13:18:36.707 [main] INFO  listener.EventListener - Trying to find Element By : By.id: days
+13:18:36.725 [main] INFO  listener.EventListener - Found Element By : By.id: days
+13:18:36.734 [main] INFO  listener.EventListener - Trying to find Element By : By.id: days
+13:18:36.749 [main] INFO  listener.EventListener - Found Element By : By.id: days
+13:18:36.774 [main] INFO  listener.EventListener - Trying to find Element By : By.id: days
+13:18:36.792 [main] INFO  listener.EventListener - Found Element By : By.id: days
+13:18:36.793 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: .//option[@value = "row 2 or column Day does not exist in xls"]
+13:18:46.840 [main] INFO  listener.EventListener - Found Element By : By.xpath: .//option[@value = "row 2 or column Day does not exist in xls"]
+13:22:29.589 [main] INFO  listener.EventListener - Before navigating to: 'http://automationpractice.com/index.php'
+13:22:38.341 [main] INFO  listener.EventListener - Navigated to:'http://automationpractice.com/index.php'
+13:22:38.623 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //a[contains(text(), 'Sign in')]
+13:22:38.643 [main] INFO  listener.EventListener - Found Element By : By.xpath: //a[contains(text(), 'Sign in')]
+13:22:38.650 [main] INFO  listener.EventListener - Trying to click on: [[ChromeDriver: chrome on WINDOWS (08cd094b835b78c99369b218dc5969de)] -> xpath: //a[contains(text(), 'Sign in')]]
+13:22:41.092 [main] INFO  listener.EventListener - Clicked on: [[ChromeDriver: chrome on WINDOWS (08cd094b835b78c99369b218dc5969de)] -> xpath: //a[contains(text(), 'Sign in')]]
+13:22:41.102 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //input[@id='email_create']
+13:22:41.120 [main] INFO  listener.EventListener - Found Element By : By.xpath: //input[@id='email_create']
+13:22:41.211 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //button[@id='SubmitCreate']
+13:22:41.226 [main] INFO  listener.EventListener - Found Element By : By.xpath: //button[@id='SubmitCreate']
+13:22:41.229 [main] INFO  listener.EventListener - Trying to click on: [[ChromeDriver: chrome on WINDOWS (08cd094b835b78c99369b218dc5969de)] -> xpath: //button[@id='SubmitCreate']]
+13:22:41.279 [main] INFO  listener.EventListener - Clicked on: [[ChromeDriver: chrome on WINDOWS (08cd094b835b78c99369b218dc5969de)] -> xpath: //button[@id='SubmitCreate']]
+13:22:41.282 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //input[@id='customer_firstname']
+13:22:43.031 [main] INFO  listener.EventListener - Found Element By : By.xpath: //input[@id='customer_firstname']
+13:22:43.159 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //input[@id='customer_lastname']
+13:22:43.172 [main] INFO  listener.EventListener - Found Element By : By.xpath: //input[@id='customer_lastname']
+13:22:43.282 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //input[@id='passwd']
+13:22:43.297 [main] INFO  listener.EventListener - Found Element By : By.xpath: //input[@id='passwd']
+13:22:43.414 [main] INFO  listener.EventListener - Trying to find Element By : By.id: days
+13:22:43.437 [main] INFO  listener.EventListener - Found Element By : By.id: days
+13:22:43.446 [main] INFO  listener.EventListener - Trying to find Element By : By.id: days
+13:22:43.456 [main] INFO  listener.EventListener - Found Element By : By.id: days
+13:22:43.479 [main] INFO  listener.EventListener - Trying to find Element By : By.id: days
+13:22:43.488 [main] INFO  listener.EventListener - Found Element By : By.id: days
+13:22:43.488 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: .//option[@value = "row 2 or column Day does not exist in xls"]
+13:22:53.581 [main] INFO  listener.EventListener - Found Element By : By.xpath: .//option[@value = "row 2 or column Day does not exist in xls"]
+13:30:38.182 [main] INFO  listener.EventListener - Before navigating to: 'http://automationpractice.com/index.php'
+13:30:48.664 [main] INFO  listener.EventListener - Navigated to:'http://automationpractice.com/index.php'
+13:31:26.378 [main] INFO  listener.EventListener - Trying to find Element By : By.xpath: //a[contains(text(), 'Sign in')]
+13:31:36.609 [main] INFO  listener.EventListener - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(), 'Sign in')]"}
+  (Session info: chrome=88.0.4324.104)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-F4HKPKP', ip: '192.168.2.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.104, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\prani\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52949}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7387fa943038089ff318087eb4c72b27
+*** Element info: {Using=xpath, value=//a[contains(text(), 'Sign in')]}

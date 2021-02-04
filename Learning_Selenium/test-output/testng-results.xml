@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-30T07:52:26Z" name="Suite" finished-at="2021-01-30T07:52:54Z" duration-ms="27915">
+    <groups>
+    </groups>
+    <test started-at="2021-01-30T07:52:26Z" name="Test" finished-at="2021-01-30T07:52:54Z" duration-ms="27915">
+      <class name="log4j_practice.CreateAccount001TestCases">
+        <test-method is-config="true" signature="testbefore()[pri:0, instance:log4j_practice.CreateAccount001TestCases@58cbafc2]" started-at="2021-01-30T07:52:26Z" name="testbefore" finished-at="2021-01-30T07:52:27Z" duration-ms="301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testbefore -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:log4j_practice.CreateAccount001TestCases@58cbafc2]" started-at="2021-01-30T07:52:27Z" name="setup" finished-at="2021-01-30T07:52:38Z" duration-ms="11581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateCreateAccountPageText()[pri:0, instance:log4j_practice.CreateAccount001TestCases@58cbafc2]" started-at="2021-01-30T07:52:38Z" name="validateCreateAccountPageText" finished-at="2021-01-30T07:52:53Z" duration-ms="14969" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Cannot locate option with value: row 2 or column Day does not exist in xls
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-F4HKPKP', ip: '192.168.2.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
+Driver info: driver.version: unknown]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Cannot locate option with value: row 2 or column Day does not exist in xls
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-F4HKPKP', ip: '192.168.2.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
+Driver info: driver.version: unknown
+at org.openqa.selenium.support.ui.Select.findOptionsByValue(Select.java:283)
+at org.openqa.selenium.support.ui.Select.selectByValue(Select.java:186)
+at pages.CreateAccountPage.setDays(CreateAccountPage.java:81)
+at log4j_practice.CreateAccount001TestCases.validateCreateAccountPageText(CreateAccount001TestCases.java:37)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateAccountPageText -->
+        <test-method is-config="true" signature="close()[pri:0, instance:log4j_practice.CreateAccount001TestCases@58cbafc2]" started-at="2021-01-30T07:52:53Z" name="close" finished-at="2021-01-30T07:52:54Z" duration-ms="988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="testafter()[pri:0, instance:log4j_practice.CreateAccount001TestCases@58cbafc2]" started-at="2021-01-30T07:52:54Z" name="testafter" finished-at="2021-01-30T07:52:54Z" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testafter -->
+      </class> <!-- log4j_practice.CreateAccount001TestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
